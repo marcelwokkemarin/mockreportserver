@@ -5,7 +5,7 @@
       "files": ["introduction.md", "summary.md"]
     }]
   ,
-   "get_file_contents": {
+  "get_file_contents": {
     "content": "# Laniarat Thracesque silices faveant\n\n## Alvum caelaverat\n\nLorem markdownum, vincula iste est."
   },
   "save_file": {
@@ -15,10 +15,6 @@
   "render_report": {
     "status": 200,
     "message": "your report will be generated"
-  },
-  "render_report_status": {
-    "status": 200,
-    "message": "your report is ready"
   },
   "profile": {
     "name": "typicode"
