@@ -1,0 +1,11 @@
+{
+  "list_files": [
+    {
+      "folder_name": "report",
+      "files": ["introduction.md", "summary.md"]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
