@@ -13,8 +13,13 @@
     "message": "file saved succesfully"
   },
   "render_report": {
-    "content": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Report Generator</title>\n    \n</head>\n<body>\n    <div class=\"container\">\n        <h1>Lorem Ipsum Generator</h1>\n       \n    </div>    \n</body>\n</html>"
-  }  ,
+    "status": 200,
+    "message": "your report will be generated"
+  },
+  "render_report_status": {
+    "status": 200,
+    "message": "your report is ready"
+  },
   "profile": {
     "name": "typicode"
   }
