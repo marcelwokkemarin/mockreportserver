@@ -1,9 +1,9 @@
 {
-  "list_files":[
+  "list_files":
     {
       "folder_name": "report",
       "files": ["introduction.md", "summary.md"]
-    }]
+    }
   ,
   "get_file_contents": {
     "content": "# Laniarat Thracesque silices faveant\n\n## Alvum caelaverat\n\nLorem markdownum, vincula iste est."
